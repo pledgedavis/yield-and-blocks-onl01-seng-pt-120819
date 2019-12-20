@@ -1,13 +1,6 @@
 def hello_t(array)
   
-[array].each do |name|
-  if name(array)
-    puts "Hi, #{name}"
-    name+=1 
-  end
-array
-end
-end
+
 
 
 # call your method here!
