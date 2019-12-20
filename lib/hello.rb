@@ -2,6 +2,7 @@ def hello_t(array)
 counter = 0 
 while counter < array.length 
 puts array[counter]
+i+=1
   end
 end
 
