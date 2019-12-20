@@ -1,5 +1,5 @@
 def hello_t(array)
-yielding do
+yield do
   puts "Tim, tom, jim"
   end
 end
