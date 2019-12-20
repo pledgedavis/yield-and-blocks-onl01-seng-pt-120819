@@ -1,5 +1,6 @@
 def hello_t(array)
-
+counter = 0 
+if counter 
   end
 end
 
