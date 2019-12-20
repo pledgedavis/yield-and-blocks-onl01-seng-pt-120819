@@ -1,6 +1,5 @@
 def hello_t(array)
-string.each do
-  puts "Tim, tom, jim"
+
   end
 end
 
