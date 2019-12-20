@@ -1,7 +1,7 @@
 def hello_t(array)
 counter = 0 
 while counter < array.length 
-puts [counter]
+puts array[counter]
   end
 end
 
