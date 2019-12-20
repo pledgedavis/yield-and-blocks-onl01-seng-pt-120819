@@ -1,10 +1,6 @@
 def hello_t(array)
 yielding do { puts "Tim, tom, jim"}
 
-
-
-
-
 end
 
 # call your method here!
